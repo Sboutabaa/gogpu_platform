@@ -5,7 +5,7 @@ package platform
 import (
 	"testing"
 
-	"github.com/gogpu/gogpu/internal/platform/darwin"
+	"github.com/Sboutabaa/gogpu_platform/darwin"
 )
 
 // TestDarwinNSStringToGo verifies conversion of ObjC NSString to Go string.

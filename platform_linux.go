@@ -14,9 +14,9 @@ import (
 
 	"golang.org/x/sys/unix"
 
-	"github.com/gogpu/gogpu/internal/platform/eventqueue"
-	"github.com/gogpu/gogpu/internal/platform/wayland"
-	"github.com/gogpu/gogpu/internal/platform/x11"
+	"github.com/Sboutabaa/gogpu_platform/eventqueue"
+	"github.com/Sboutabaa/gogpu_platform/wayland"
+	"github.com/Sboutabaa/gogpu_platform/x11"
 	"github.com/gogpu/gpucontext"
 )
 

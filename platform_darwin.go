@@ -11,8 +11,8 @@ import (
 	"unicode/utf8"
 	"unsafe"
 
-	"github.com/gogpu/gogpu/internal/platform/darwin"
-	"github.com/gogpu/gogpu/internal/platform/eventqueue"
+	"github.com/Sboutabaa/gogpu_platform/darwin"
+	"github.com/Sboutabaa/gogpu_platform/eventqueue"
 	"github.com/gogpu/gpucontext"
 )
 

@@ -15,8 +15,8 @@ import (
 
 	"github.com/go-webgpu/goffi/ffi"
 	"github.com/go-webgpu/goffi/types"
-	"github.com/gogpu/gogpu/internal/platform/eventqueue"
-	xkbcommon "github.com/gogpu/gogpu/internal/platform/xkb"
+	"github.com/Sboutabaa/gogpu_platform/eventqueue"
+	xkbcommon "github.com/Sboutabaa/gogpu_platform/xkb"
 	"github.com/gogpu/gpucontext"
 )
 

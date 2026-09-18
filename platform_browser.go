@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"syscall/js"
 
-	"github.com/gogpu/gogpu/internal/platform/eventqueue"
+	"github.com/Sboutabaa/gogpu_platform/eventqueue"
 	"github.com/gogpu/gpucontext"
 )
 

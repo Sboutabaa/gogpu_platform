@@ -7,7 +7,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/gogpu/gogpu/internal/platform/darwin"
+	"github.com/Sboutabaa/gogpu_platform/darwin"
 )
 
 var (

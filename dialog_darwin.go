@@ -6,7 +6,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/gogpu/gogpu/internal/platform/darwin"
+	"github.com/Sboutabaa/gogpu_platform/darwin"
 )
 
 // nsModalResponseOK is the return value of NSPanel.runModal on user confirmation.

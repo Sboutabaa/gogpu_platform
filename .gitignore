@@ -1,0 +1,10 @@
+.go_bin/
+.direnv/
+.envrc
+
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib

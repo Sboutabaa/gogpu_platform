@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gogpu/gogpu/internal/platform/eventqueue"
-	"github.com/gogpu/gogpu/internal/platform/xkb"
+	"github.com/Sboutabaa/gogpu_platform/eventqueue"
+	"github.com/Sboutabaa/gogpu_platform/xkb"
 	"github.com/gogpu/gpucontext"
 )
 

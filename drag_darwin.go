@@ -15,7 +15,7 @@ package platform
 // AppKit invokes draggingSession:endedAtPoint:operation: on GoGPUView.
 
 import (
-	"github.com/gogpu/gogpu/internal/platform/darwin"
+	"github.com/Sboutabaa/gogpu_platform/darwin"
 )
 
 // startDragDarwin initiates a macOS drag session with file paths.

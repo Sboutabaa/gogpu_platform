@@ -5,7 +5,7 @@ package darwin_test
 import (
 	"testing"
 
-	platformdarwin "github.com/gogpu/gogpu/internal/platform/darwin"
+	platformdarwin "github.com/Sboutabaa/gogpu_platform/darwin"
 )
 
 // TestWindowDelegateClassRegistration verifies that the GoGPUWindowDelegate

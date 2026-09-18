@@ -25,7 +25,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gogpu/gogpu/internal/platform/x11"
+	"github.com/Sboutabaa/gogpu_platform/x11"
 	"github.com/gogpu/gpucontext"
 )
 

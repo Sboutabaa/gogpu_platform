@@ -10,7 +10,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/gogpu/gogpu/internal/platform/eventqueue"
+	"github.com/Sboutabaa/gogpu_platform/eventqueue"
 	"github.com/gogpu/gpucontext"
 	"golang.org/x/sys/windows"
 )

@@ -12,7 +12,7 @@ import (
 
 	"github.com/go-webgpu/goffi/ffi"
 	"github.com/go-webgpu/goffi/types"
-	platformdarwin "github.com/gogpu/gogpu/internal/platform/darwin"
+	platformdarwin "github.com/Sboutabaa/gogpu_platform/darwin"
 )
 
 type nsPoint struct {

@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gogpu/gogpu/internal/platform/eventqueue"
+	"github.com/Sboutabaa/gogpu_platform/eventqueue"
 )
 
 // newWaylandPrepareFrameFixture builds a minimal primary-window setup that
